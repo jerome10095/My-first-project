@@ -6,3 +6,7 @@ body {
 function showMessage() {
     alert("Keep learning, Jerome! 💪");
 };
+let Increase = 0;
+function Increase() { increase +=1;
+console.log(increase);
+}
