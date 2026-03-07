@@ -10,6 +10,8 @@ let Increase = 0;
 function Increase() { Increase +=1;
 console.log(Increase);
 }
-let a = 5;
-a++;
-console.log(a);
+
+const age = 23
+const weight = 60
+const healthy = age * weight
+console.log(healthy);
