@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 40px;
+  box-sizing: border-box
+  font-family: Arial, sans-serif;
+
+}
+
+.card {
+font-family: Arial, sans-serif;
+  background-color: black;
+  border-radius: 15px;
+  max-width: 1000px;
+  overflow: hidden;
+  margin: 50px auto;
+  width: 500px;
+ 
+
+}
+
+body {
+  background-color:;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+  
+}
+
+.image {
+
+    display: flex;
+
+
+
+
+}
