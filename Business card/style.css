@@ -43,6 +43,7 @@ h1 {
   text-align: center;
   padding-bottom: 20px;
   border: 10px rgb(11, 46, 20) solid;
+  display: flex;
 }
 
 button {
@@ -67,7 +68,7 @@ footer {
   color: #999;
   margin-top: 10px;
   border: 2px solid;
-  background-color: black !important;
+  background-color: black;
   
 }
 
