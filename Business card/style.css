@@ -7,22 +7,21 @@ body {
   margin: 50px auto;
   background-color: rgb(168, 155, 95);
   display: flex;
-  flex-direction: column;
   align-items: center;
-  position: relative;
+  position: flex;
 
 }
 
 .image {
   align-items: center;
   padding: 20px;
- 
   display: flex;
   justify-content: center;
   height: 200px;
   width: 200px;
   position: relative;
   display: inline;
+  Border-radius: 50%;
   
 }
 
@@ -32,6 +31,7 @@ h1, p, h2, p {
   display: block;
   position: relative;
   display: flex;
+  justify-content: center;
 }
 
 h1 {
@@ -44,17 +44,18 @@ h1 {
   color: white;
   display: flex;
   justify-content: center;
-  align-items: center;
-  position: relative
+  gap: 20px;
 
 }
 
 .LinkedIn {
   background-color: blue;
+  color: white;
 }
 
 .email {
   color: black;
+  
 }
 
 #card {
@@ -122,5 +123,7 @@ h2 {
   border: 5px rgb(237, 240, 240) solid;
   background-color: rgb(32, 59, 39);
   position: relative;
+  text-align: center;
+  justify-content: center;
 
 }
